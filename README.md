@@ -106,6 +106,10 @@ python app.py
 
 API will start at `http://localhost:5000`
 
+## 🌐 Live Deployment
+The API is live and publicly accessible at:
+**https://student-performance-predictor-op84.onrender.com**
+
 ### Test the API
 
 ```bash
