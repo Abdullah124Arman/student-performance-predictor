@@ -36,8 +36,7 @@ public class MainActivity extends AppCompatActivity {
     private final OkHttpClient client = new OkHttpClient();
 
 
-    private static final String PREDICT_URL = "http://10.32.224.90:5000/predict";
-
+    private static final String PREDICT_URL = "https://student-performance-predictor-op84.onrender.com/predict";
     public static final MediaType JSON
             = MediaType.parse("application/json; charset=utf-8");
 
